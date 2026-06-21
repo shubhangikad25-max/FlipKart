@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.DS_Store
+.ipynb_checkpoints/
+models/
+outputs/
+*.log
+*.pkl
+.env
+.vscode/
+.idea/
